@@ -4,7 +4,7 @@
 Email Me    **inshasheikh2007.com** For Collaboration/Project or Anything Else.  
 
 ## 🌐 Socials:
-[![Discord] [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/insha sheikh) [![Instagram] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insha mahfooz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/insha) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/inshasheikh_90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@inshasheikh37826) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inshasheikh2007@gmail.com) 
+[![Discord] [![Facebook]  [![Instagram] [![LinkedIn]  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/insha) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/inshasheikh_90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@inshasheikh37826) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inshasheikh2007@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
