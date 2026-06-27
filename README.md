@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Insha mahfooz
+#  Hi 👋, I'm Insha mahfooz
 **A cyber security asperant || DevOps Engineer | **
 
 Email Me    **inshasheikh2007.com** For Collaboration/Project or Anything Else.  
