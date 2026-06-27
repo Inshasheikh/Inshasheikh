@@ -4,7 +4,7 @@
 Email Me    **inshasheikh2007.com** For Collaboration/Project or Anything Else.  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/insha0826) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/insha sheikh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_insha20__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insha mahfooz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/insha) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/inshasheikh_90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@inshasheikh37826) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inshasheikh2007@gmail.com) 
+[![Discord] [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/insha sheikh) [![Instagram] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insha mahfooz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/insha) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/inshasheikh_90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@inshasheikh37826) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inshasheikh2007@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -28,7 +28,7 @@ Email Me    **inshasheikh2007.com** For Collaboration/Project or Anything Else.
 [![](https://komarev.com/ghpvc/?username=Inshasheikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/insha mahfooz) 
+  [![PayPal]
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
